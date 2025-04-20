@@ -1,0 +1,21 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Add this in index.css or App.css */
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+
+@keyframes seesaw {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(2deg); }
+    50% { transform: rotate(0deg); }
+    75% { transform: rotate(-2deg); }
+    100% { transform: rotate(0deg); }
+  }
+  
+  .animate-seesaw {
+    animation: seesaw 1.8s ease-in-out infinite;
+  }
+  /* globals.css or tailwind base layer */
