@@ -12,13 +12,13 @@ import WelcomeSection from './components/WelcomeSection';
 import Footer from './components/Footer';
 import FirstVisitPopup from './components/FirstVisitPopup ';
 import AboveFooter from './components/AboveFooter';
-import PriceTableSection from './Components/PriceTableSection.jsx';
-import Plans from './Components/Plans.jsx';
-import SmallImageCarousel from './Components/SmallImageCarousel.jsx';
-import GallerySection from './Components/GallerySection.jsx';
-import LocateUs from './Components/LocateUs.jsx';
-import VirtualTourRequest from './Components/VirtualTourRequest.jsx';
-import About from './Components/About.jsx';
+import PriceTableSection from './components/PriceTableSection.jsx';
+import Plans from './components/Plans.jsx';
+import SmallImageCarousel from './components/SmallImageCarousel.jsx';
+import GallerySection from './components/GallerySection.jsx';
+import LocateUs from './components/LocateUs.jsx';
+import VirtualTourRequest from './components/VirtualTourRequest.jsx';
+import About from './components/About.jsx';
 import BrochurePopup from './components/BrochurePopup.jsx';
 
 function App() {
